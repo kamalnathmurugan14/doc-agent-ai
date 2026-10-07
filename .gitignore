@@ -1,0 +1,29 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+# env / secrets
+.env
+.env.*
+!.env.example
+# data & models
+data/
+*.sqlite
+*.db
+*.joblib
+models/
+# node
+node_modules/
+dist/
+test-results/
+playwright-report/
+# os / ide
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
