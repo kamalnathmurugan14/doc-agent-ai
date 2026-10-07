@@ -1,0 +1,6 @@
+INVOICE INV-1043
+Bill to: Globex
+Subtotal: $400
+GST: $40
+Total due: $440
+Payment due 2026-02-28

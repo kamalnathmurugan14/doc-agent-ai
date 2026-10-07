@@ -1,0 +1,6 @@
+INVOICE INV-1042
+Bill to: Acme Corp
+Subtotal: $900
+GST: $100
+Total due: $1000
+Payment due 2026-01-31
